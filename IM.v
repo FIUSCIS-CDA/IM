@@ -1,4 +1,4 @@
-`timescale 1ns / 1ps
+`timescale 1ps / 1ps
 module IM(a, d);    
    input[31:0] a;
    output wire [31:0] d;
